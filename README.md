@@ -32,7 +32,7 @@ Java, TestNG, Maven, and Page Object Model (POM).
 - Verify order confirmation
 
 ## 📂 Project Structure
-
+```
 src
 ├── main
 │   └── java
@@ -54,6 +54,7 @@ src
 ├── pom.xml
 ├── testng.xml
 └── .gitignore
+```
 
 ## ⚙️ Framework Features
 
