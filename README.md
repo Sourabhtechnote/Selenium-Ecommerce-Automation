@@ -1,5 +1,7 @@
 # Selenium E-commerce Automation
 
+## 📌 Project Overview
+
 Web UI automation testing project built using Selenium WebDriver,
 Java, TestNG, Maven, and Page Object Model (POM).
 
